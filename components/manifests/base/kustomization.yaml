@@ -13,6 +13,7 @@ resources:
 - frontend-deployment.yaml
 - operator-deployment.yaml
 - workspace-pvc.yaml
+- minio-deployment.yaml
 
 # Default images (can be overridden by overlays)
 images:
